@@ -1,11 +1,7 @@
-import os
-
-
 def main():
-    not_used = "lol"
     value = None
     if value == None:
-        print(f"value is missing")
+        print("value is missing")
 
 
 if __name__ == "__main__":
